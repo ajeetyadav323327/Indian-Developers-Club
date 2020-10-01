@@ -1,14 +1,3 @@
-App id
-ca-app-pub-5685359897277684~8116914196
-
-main page banner
-ca-app-pub-5685359897277684/2784502949
-
-ipl stream
-ca-app-pub-5685359897277684/2784502949
-
-idc page
-ca-app-pub-5685359897277684/1822968585
-
-main page interstitial
-ca-app-pub-5685359897277684/1439825204
+Indian Developers Club is an organisation for coders and Developers.
+We organize coding challenges and mock interviews.
+We currently working in all big indian cities.
